@@ -1,0 +1,15 @@
+{
+  "name": "iFitness Yaba - Adedeji",
+  "dataColors": ["#1F3864", "#ED7D31", "#2E75B6", "#70AD47", "#A5A5A5", "#FFC000", "#5B9BD5", "#C00000"],
+  "background": "#FFFFFF",
+  "foreground": "#1F3864",
+  "tableAccent": "#ED7D31",
+  "good": "#70AD47",
+  "bad": "#C00000",
+  "neutral": "#FFC000",
+  "textClasses": {
+    "title": {"fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#1F3864"},
+    "label": {"fontFace": "Segoe UI", "fontSize": 10, "color": "#404040"},
+    "callout": {"fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#1F3864"}
+  }
+}

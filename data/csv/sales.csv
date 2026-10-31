@@ -1,0 +1,61 @@
+sale_date,month,member_id,product,category,quantity,unit_price,total,is_estimate
+2023-08-01,2023-08-01,#P020,Gloves,Accessories,1,17500,17500,No
+2023-08-01,2023-08-01,#P020,Water Bottle,Accessories,1,17500,17500,No
+2023-08-02,2023-08-01,#P002,Gloves,Accessories,1,32450,32450,No
+2023-08-02,2023-08-01,#P002,Whey protein 2lb,Protein,1,86000,86000,No
+2023-08-07,2023-08-01,#P003,Water Bottle,Accessories,1,17500,17500,No
+2023-08-09,2023-08-01,#P006,Gloves,Accessories,1,32450,32450,No
+2023-08-13,2023-08-01,#P017,Pre-Workout,Supplements,1,55000,55000,No
+2023-08-16,2023-08-01,#P013,Knee wrap,Accessories,1,28000,28000,No
+2023-08-16,2023-08-01,#P013,Gloves,Accessories,1,32450,32450,No
+2023-08-16,2023-08-01,#P001,Gloves,Accessories,1,32450,32450,No
+2023-08-16,2023-08-01,#P001,Water Bottle,Accessories,1,17500,17500,No
+2023-09-17,2023-09-01,#P017,Fat Burner,Supplements,1,43000,43000,No
+2023-10-08,2023-10-01,#P025,Gloves,Accessories,1,17500,17500,No
+2023-11-15,2023-11-01,,Mixed sales (estimate),Estimate,1,100000,100000,Yes
+2023-12-15,2023-12-01,,Mixed sales (estimate),Estimate,1,100000,100000,Yes
+2024-01-12,2024-01-01,#P005,Gloves,Accessories,2,32450,64900,No
+2024-01-31,2024-01-01,#P009,Pre-Workout,Supplements,1,55000,55000,No
+2024-02-07,2024-02-01,#P009,Gloves,Accessories,1,17500,17500,No
+2024-02-14,2024-02-01,#P012,Pre-Workout,Supplements,1,55000,55000,No
+2024-03-28,2024-03-01,#P019,Gloves,Accessories,1,17500,17500,No
+2024-04-01,2024-04-01,#P026,Whey protein 2lb,Protein,2,86000,172000,No
+2024-05-13,2024-05-01,#P016,Gloves,Accessories,1,17500,17500,No
+2024-05-13,2024-05-01,#P016,Clothes & Socks,Accessories,2,15600,31200,No
+2024-06-09,2024-06-01,#P025,Whey protein 2lb,Protein,1,86000,86000,No
+2024-07-05,2024-07-01,#P004,Gloves,Accessories,2,32450,64900,No
+2024-07-23,2024-07-01,#P011,Knee wrap,Accessories,1,28000,28000,No
+2024-08-15,2024-08-01,,Mixed sales (estimate),Estimate,1,100000,100000,Yes
+2024-09-28,2024-09-01,#P007,Gloves,Accessories,1,32450,32450,No
+2024-10-30,2024-10-01,#P021,Clothes & Socks,Accessories,8,15600,124800,No
+2024-10-30,2024-10-01,#P021,Gloves,Accessories,1,17500,17500,No
+2024-11-19,2024-11-01,#P026,Gloves,Accessories,2,17500,35000,No
+2024-12-03,2024-12-01,#P015,Gloves,Accessories,2,17500,35000,No
+2024-12-03,2024-12-01,#P015,Pre-Workout,Supplements,2,55000,110000,No
+2024-12-19,2024-12-01,#P006,Whey protein 2lb,Protein,1,86000,86000,No
+2025-01-15,2025-01-01,,Mixed sales (estimate),Estimate,1,100000,100000,Yes
+2025-02-22,2025-02-01,#P022,Gloves,Accessories,1,17500,17500,No
+2025-03-23,2025-03-01,#P026,Clothes & Socks,Accessories,5,15600,78000,No
+2025-04-30,2025-04-01,#P014,Pre-Workout,Supplements,2,55000,110000,No
+2025-05-23,2025-05-01,#P014,Clothes & Socks,Accessories,4,15600,62400,No
+2025-06-30,2025-06-01,#P008,Pre-Workout,Supplements,1,55000,55000,No
+2025-07-17,2025-07-01,#P006,Water Bottle,Accessories,1,17500,17500,No
+2025-08-15,2025-08-01,,Mixed sales (estimate),Estimate,1,100000,100000,Yes
+2025-09-14,2025-09-01,#P004,Clothes & Socks,Accessories,10,15600,156000,No
+2025-09-22,2025-09-01,#P010,Pre-Workout,Supplements,1,55000,55000,No
+2025-10-15,2025-10-01,,Mixed sales (estimate),Estimate,1,100000,100000,Yes
+2025-11-18,2025-11-01,#P024,Gloves,Accessories,1,17500,17500,No
+2025-11-24,2025-11-01,#P010,Water Bottle,Accessories,1,17500,17500,No
+2025-11-28,2025-11-01,#P023,Gloves,Accessories,1,17500,17500,No
+2025-11-30,2025-11-01,#P023,Pre-Workout,Supplements,1,55000,55000,No
+2025-12-03,2025-12-01,#P015,Clothes & Socks,Accessories,6,15600,93600,No
+2025-12-06,2025-12-01,#P003,Fat Burner,Supplements,2,43000,86000,No
+2025-12-20,2025-12-01,#P024,Pre-Workout,Supplements,2,55000,110000,No
+2026-01-28,2026-01-01,#P018,Gloves,Accessories,1,17500,17500,No
+2026-02-15,2026-02-01,,Mixed sales (estimate),Estimate,1,100000,100000,Yes
+2026-03-30,2026-03-01,#P010,Pre-Workout,Supplements,4,55000,220000,No
+2026-04-18,2026-04-01,#P010,Clothes & Socks,Accessories,5,15600,78000,No
+2026-05-15,2026-05-01,,Mixed sales (estimate),Estimate,1,100000,100000,Yes
+2026-06-01,2026-06-01,#P027,Water Bottle,Accessories,1,17500,17500,No
+2026-06-06,2026-06-01,#P027,Gloves,Accessories,1,17500,17500,No
+2026-06-08,2026-06-01,#P003,Pre-Workout,Supplements,5,55000,275000,No

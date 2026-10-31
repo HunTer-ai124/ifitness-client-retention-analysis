@@ -1,0 +1,26 @@
+member_id,measure,unit,start_value,latest_value,change,result_in_words
+#P001,Body weight,kg,,,-11,"Lost more than 11kg, breathes well now"
+#P002,Body weight,kg,,,5,Gained 5 to 6kg
+#P003,Body weight,kg,,,-12,"Lost over 12kg, lifts heavy now"
+#P004,Glutes,kg,,,3,Added about 3kg on her glutes
+#P004,Belly fat,kg,,,-2,Lost 2kg on her belly
+#P005,Body weight,kg,,,-10,"Lost over 10kg, lifts heavy"
+#P006,Body weight,kg,,,,Gained weight and got stronger
+#P007,Body weight,kg,89,80,-9,From 89kg to 80kg
+#P008,Body weight,kg,,,,"Reached her goal, now building glutes"
+#P009,Body weight,kg,,,-7,"Lost about 7kg, very strong"
+#P010,Body weight,kg,,,,"Lost weight, now building muscle"
+#P011,Body weight,kg,,,-4,Lost 4kg
+#P012,Football stamina,minutes,20,180,160,From under 20 minutes to about 3 hours
+#P012,Body weight,kg,,,,Lost a whole lot of weight
+#P013,Body weight,kg,,,-10,Lost up to 10kg
+#P014,Body weight,kg,,,,"Gained weight, plays football longer"
+#P015,Body weight,kg,,,0,Maintained his weight
+#P016,Body weight,kg,,,,Gained a whole lot of weight
+#P017,Football stamina,minutes,,180,,Plays football for about 3 hours
+#P017,Body weight,kg,,,,"Lost weight, now building muscle"
+#P021,Body weight,kg,,,-5,Lost 5kg
+#P022,Body weight,kg,,,,Lost weight
+#P023,Body shape,,,,,"Gained in the right areas, lost in the right areas"
+#P024,Body weight,kg,,,,"Lost weight, one of the strongest, plays football longer"
+#P027,Body weight,kg,,,-4,Lost 4kg so far
